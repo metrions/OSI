@@ -1,0 +1,151 @@
+Size of file: 1673 bytes
+
+----------------
+Frame number: 1
+MAC dest: 00:08:02:BF:16:1B
+MAC source: 00:08:C7:8A:F2:A1
+Frame type: IPv4
+IP source: 195.62.2.44
+IP dest: 195.62.2.9
+
+---------
+Frame number: 2
+MAC dest: 4D:42:32:00:00:00
+MAC source: 00:98:07:C8:00:00
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 3
+MAC dest: 83:D4:3B:9A:C8:01
+MAC source: 52:8F:69:85:87:32
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 4
+MAC dest: 40:06:A4:67:C3:3E
+MAC source: 02:0B:51:B5:4E:CE
+Frame type: 802.3/LLC (Ethernet 802.2)
+
+---------
+Frame number: 5
+MAC dest: 5F:34:2E:34:0A:00
+MAC source: 90:27:A1:36:D0:00
+Frame type: 802.3/LLC (Ethernet 802.2)
+
+---------
+Frame number: 6
+MAC dest: 41:49:4C:20:46:52
+MAC source: 4F:4D:3A:3C:6E:62
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 7
+MAC dest: 2E:73:75:3E:0D:0A
+MAC source: 44:41:54:41:0D:0A
+Frame type: 802.3/LLC (Ethernet 802.2)
+
+---------
+Frame number: 8
+MAC dest: C0:8F:FD:51:00:00
+MAC source: 00:90:27:A1:36:D0
+Frame type: 802.3/LLC (Ethernet 802.2)
+
+---------
+Frame number: 9
+MAC dest: 4D:41:49:4C:20:46
+MAC source: 52:4F:4D:3A:3C:74
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 10
+MAC dest: 6E:73:6B:2E:73:75
+MAC source: 3E:0D:0A:44:41:54
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 11
+MAC dest: 78:50:10:C0:8D:8A
+MAC source: C2:00:00:00:02:16
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 12
+MAC dest: 00:00:01:08:62:6F
+MAC source: 73:6B:6F:77:61:6E
+Frame type: 802.3/LLC (Ethernet 802.2)
+
+---------
+Frame number: 13
+MAC dest: 02:2C:C3:3E:02:09
+MAC source: 11:98:00:8B:FF:7C
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 14
+MAC dest: 80:18:0F:52:00:00
+MAC source: 00:0A:00:00:40:00
+Frame type: 802.3/LLC (Ethernet 802.2)
+
+---------
+Frame number: 15
+MAC dest: 73:00:5C:00:44:00
+MAC source: 69:00:61:00:62:00
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 16
+MAC dest: 00:08:C7:8A:F2:A1
+MAC source: 00:08:02:BF:16:1B
+Frame type: IPv4
+IP source: 195.62.2.9
+IP dest: 195.62.2.44
+
+---------
+Frame number: 17
+MAC dest: 31:2E:30:20:3C:74
+MAC source: 65:71:75:69:6C:61
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 18
+MAC dest: 64:20:36:32:2E:36
+MAC source: 38:2E:31:36:38:2E
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 19
+MAC dest: 54:20:28:72:65:63
+MAC source: 69:70:69:65:6E:74
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 20
+MAC dest: FC:50:10:43:C0:8D
+MAC source: 3F:00:00:00:90:27
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 21
+MAC dest: 74:00:00:01:01:08
+MAC source: 0A:08:95:D1:54:35
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 22
+MAC dest: A0:80:18:00:2E:ED
+MAC source: CB:00:00:01:01:08
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Frame number: 23
+MAC dest: 7C:40:00:40:06:A4
+MAC source: 7B:C3:3E:02:0B:51
+Frame type: Ethernet DIX (Ethernet II)
+
+---------
+Total number of frames: 23
+IPv4 frames: 2
+Dix frames: 15
+ARP frames: 0
+SNAP frames: 0
+802.3 frames: 6
